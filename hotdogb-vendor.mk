@@ -122,6 +122,11 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/hotdogb/proprietary/vendor/etc/sensors/config/sx932x_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sx932x_0.json \
     vendor/oneplus/hotdogb/proprietary/vendor/etc/sensors/config/tcs3701.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/tcs3701.json \
     vendor/oneplus/hotdogb/proprietary/vendor/etc/sensors/sns_reg_config:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/sns_reg_config \
+    vendor/oneplus/hotdogb/proprietary/vendor/firmware/aw8697_haptic_166.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_haptic_166.bin \
+    vendor/oneplus/hotdogb/proprietary/vendor/firmware/aw8697_haptic_168.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_haptic_168.bin \
+    vendor/oneplus/hotdogb/proprietary/vendor/firmware/aw8697_haptic_170.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_haptic_170.bin \
+    vendor/oneplus/hotdogb/proprietary/vendor/firmware/aw8697_haptic_172.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_haptic_172.bin \
+    vendor/oneplus/hotdogb/proprietary/vendor/firmware/aw8697_haptic_174.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_haptic_174.bin \
     vendor/oneplus/hotdogb/proprietary/vendor/lib/fp_hal_extension.so:$(TARGET_COPY_OUT_VENDOR)/lib/fp_hal_extension.so \
     vendor/oneplus/hotdogb/proprietary/vendor/lib/hw/audio.primary.msmnile.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.msmnile.so \
     vendor/oneplus/hotdogb/proprietary/vendor/lib/hw/goodix.fod.msmnile.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/goodix.fod.msmnile.so \
